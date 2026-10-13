@@ -368,7 +368,7 @@ with st.container():
 with st.container():
     st.markdown("""
     <div class="project-card">
-    <h3>📱 Sahayak+ — Digital Marketing Capstone</h3>
+    <h3>📱 Sahayak+ — Digital Marketing </h3>
     <p>
     A digital marketing project covering customer personas, competitor
     analysis, marketing funnel, content strategy and paid media.
